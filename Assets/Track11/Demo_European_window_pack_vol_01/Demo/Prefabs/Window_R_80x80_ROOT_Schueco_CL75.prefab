@@ -1,0 +1,420 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2425271082889959573
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      propertyPath: m_Name
+      value: Window_R_80x80_ROOT_Schueco_CL75
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 385291858806900157}
+    - targetCorrespondingSourceObject: {fileID: 3914164957993107506, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4938942226112221400}
+    - targetCorrespondingSourceObject: {fileID: -1050980519848537227, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5259545139571830006}
+    - targetCorrespondingSourceObject: {fileID: -1050980519848537227, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5393682135484287856}
+  m_SourcePrefab: {fileID: 100100000, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+--- !u!4 &1299306504738069781 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -5503298334503565952, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1414222675407877835 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -5618206224608399778, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1727591675562875047 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3914164957993107506, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4938942226112221400
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727591675562875047}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.62260246, y: 0.62169904, z: 0.026309606}
+  m_Center: {x: 0.00025428837, y: -0.00026217103, z: 0.016750004}
+--- !u!1 &3272184961131865540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &385291858806900157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3272184961131865540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d40cbb0782a8342bef449a5d3ce015, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Track11.EuropeanWindowPackVol01.ColorChooser3D
+  autoCollectOnValidate: 1
+  includeInactiveChildren: 1
+  showVariants: 0
+  materialOverrides:
+  - label: 'Material: M_Metal_Nickel'
+    targetRenderer: {fileID: 0}
+    materialIndex: 0
+    materialNameContains: M_Metal_Nickel
+    applyToAllMatchingRenderers: 1
+    overrideColor: 0
+    colorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideAlpha: 0
+    alphaOverride: 1
+    overrideMetallic: 0
+    metallicOverride: 0
+    overrideSmoothness: 0
+    smoothnessOverride: 0.5
+    overrideSpecularColor: 0
+    specularColorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideEmissionColor: 0
+    emissionColorOverride: {r: 0, g: 0, b: 0, a: 1}
+    overrideBumpScale: 0
+    bumpScaleOverride: 1
+    overrideOcclusionStrength: 0
+    occlusionStrengthOverride: 1
+    enabled: 1
+  - label: 'Material: Alu_ev1_elox'
+    targetRenderer: {fileID: 0}
+    materialIndex: 1
+    materialNameContains: Alu_ev1_elox
+    applyToAllMatchingRenderers: 1
+    overrideColor: 0
+    colorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideAlpha: 0
+    alphaOverride: 1
+    overrideMetallic: 0
+    metallicOverride: 0
+    overrideSmoothness: 0
+    smoothnessOverride: 0.5
+    overrideSpecularColor: 0
+    specularColorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideEmissionColor: 0
+    emissionColorOverride: {r: 0, g: 0, b: 0, a: 1}
+    overrideBumpScale: 0
+    bumpScaleOverride: 1
+    overrideOcclusionStrength: 0
+    occlusionStrengthOverride: 1
+    enabled: 1
+  - label: 'Material: Matte_seal'
+    targetRenderer: {fileID: 0}
+    materialIndex: 2
+    materialNameContains: Matte_seal
+    applyToAllMatchingRenderers: 1
+    overrideColor: 0
+    colorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideAlpha: 0
+    alphaOverride: 1
+    overrideMetallic: 0
+    metallicOverride: 0
+    overrideSmoothness: 0
+    smoothnessOverride: 0.5
+    overrideSpecularColor: 0
+    specularColorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideEmissionColor: 0
+    emissionColorOverride: {r: 0, g: 0, b: 0, a: 1}
+    overrideBumpScale: 0
+    bumpScaleOverride: 1
+    overrideOcclusionStrength: 0
+    occlusionStrengthOverride: 1
+    enabled: 1
+  - label: 'Material: M_Glass'
+    targetRenderer: {fileID: 0}
+    materialIndex: 0
+    materialNameContains: M_Glass
+    applyToAllMatchingRenderers: 1
+    overrideColor: 0
+    colorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideAlpha: 0
+    alphaOverride: 1
+    overrideMetallic: 0
+    metallicOverride: 0
+    overrideSmoothness: 0
+    smoothnessOverride: 0.5
+    overrideSpecularColor: 0
+    specularColorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideEmissionColor: 0
+    emissionColorOverride: {r: 0, g: 0, b: 0, a: 1}
+    overrideBumpScale: 0
+    bumpScaleOverride: 1
+    overrideOcclusionStrength: 0
+    occlusionStrengthOverride: 1
+    enabled: 1
+  - label: 'Material: Handle_mat'
+    targetRenderer: {fileID: 0}
+    materialIndex: 0
+    materialNameContains: Handle_mat
+    applyToAllMatchingRenderers: 1
+    overrideColor: 1
+    colorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideAlpha: 0
+    alphaOverride: 1
+    overrideMetallic: 1
+    metallicOverride: 1
+    overrideSmoothness: 0
+    smoothnessOverride: 0.5
+    overrideSpecularColor: 0
+    specularColorOverride: {r: 1, g: 1, b: 1, a: 1}
+    overrideEmissionColor: 0
+    emissionColorOverride: {r: 0, g: 0, b: 0, a: 1}
+    overrideBumpScale: 0
+    bumpScaleOverride: 1.3
+    overrideOcclusionStrength: 0
+    occlusionStrengthOverride: 1
+    enabled: 1
+  _lastCollectedShowVariants: 0
+--- !u!4 &4640328841400513057 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2175932078275450188, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5819321396416498656 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -1050980519848537227, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5259545139571830006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5819321396416498656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fcc1b71dc93d354c8f2d4a69a73c022, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Track11.EuropeanWindowPackVol01.WindowHandlePopup
+  tiltPivot: {fileID: 4640328841400513057}
+  turnPivot: {fileID: 1414222675407877835}
+  handleBarPivot: {fileID: 8720624957837204835}
+  mechanicPivot: {fileID: 7910798809817599329}
+  slidePivot: {fileID: 0}
+  liftPivot: {fileID: 0}
+  frenchDoorPrimary: 0
+  frenchWindowSecondary: 0
+  tiltAxis: 0
+  turnAxis: 1
+  handleAxis: 2
+  mechanicTurnAxis: 1
+  mechanicTiltAxis: 1
+  slideAxis: 0
+  liftAxis: 1
+  tiltOpenAngle: -5
+  turnOpenAngle: -90
+  handleAngleClosed: 0
+  handleAngleTurn: 90
+  handleAngleTilt: -180
+  handleAngleSlide: 180
+  mechanicTurnAngle: -90
+  mechanicTiltAngle: -12
+  rotateSpeed: 220
+  turnRotateSpeed: 220
+  tiltRotateSpeed: 220
+  mechanicTurnSpeedMultiplier: 1
+  mechanicTiltSpeedMultiplier: 3
+  mechanicTiltCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  initialMode: 0
+  slideLabel: Slide
+  slideDistanceCm: 80
+  liftDistanceCm: 6
+  slideSpeed: 120
+  liftSpeed: 80
+  slideCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  enableAudio: 1
+  handleSoundAnchor: {fileID: 8720624957837204835}
+  frameSoundAnchor: {fileID: 1299306504738069781}
+  handleTurn90Sound: {fileID: 8300000, guid: 36a6907401e83ef4b8d9c0bca7a18c50, type: 3}
+  handleTurn180Sound: {fileID: 8300000, guid: 294441d83eb780849a6acf3b094b6d7f, type: 3}
+  frameOpenSound: {fileID: 8300000, guid: 9e6d9d45803ae5e43aad625aef90262f, type: 3}
+  frameCloseSound: {fileID: 8300000, guid: 96340153cc44c634fbdcb6686e293a5a, type: 3}
+  handleVolume: 0.839
+  frameVolume: 0.833
+  showTitle: 0
+  titleText: Window
+  turnLabel: Turn
+  tiltLabel: Tilt
+  closeLabel: Close
+  showCloseX: 1
+  closeXLabel: X
+  worldOffsetCm: {x: -8, y: 0, z: 8}
+  panelNormalDistanceCm: 12
+  panelLocalOffsetCm: {x: 0, y: 0, z: 0}
+  faceCamera: 1
+  flipTowardsCamera: 0
+  menuRotationOffsetEuler: {x: 0, y: 0, z: 0}
+  menuWidthCm: 30
+  menuHeightCm: 34
+  menuDepthCm: 1.6
+  buttonWidthCm: 22
+  buttonHeightCm: 14
+  buttonDepthCm: 1.2
+  buttonInsetCm: 1.2
+  spacingCm: 1.8
+  paddingCm: -12
+  titleHeightCm: 10
+  headerButtonWidthCm: 10
+  panelColor: {r: 0.08, g: 0.08, b: 0.08, a: 0.88}
+  buttonColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  buttonHoverColor: {r: 0.33, g: 0.33, b: 0.33, a: 1}
+  buttonPressedColor: {r: 0.45, g: 0.45, b: 0.45, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  titleColor: {r: 1, g: 1, b: 1, a: 1}
+  titleFontSize: 40
+  buttonFontSize: 36
+  titleCharacterSizeCm: 3.5
+  buttonCharacterSizeCm: 14
+  textDepthOffsetCm: 0.2
+  enableHoverScale: 1
+  hoverScaleMultiplier: 1.2
+--- !u!65 &5393682135484287856
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5819321396416498656}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.017218327, y: 0.10031691, z: 0.035612088}
+  m_Center: {x: 0.000029160648, y: -0.035722807, z: -0.014349995}
+--- !u!4 &7910798809817599329 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5503546809205396980, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8720624957837204835 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2833422761322084874, guid: bbc7da3e9c1a4e740a816e1eeda25db5, type: 3}
+  m_PrefabInstance: {fileID: 2425271082889959573}
+  m_PrefabAsset: {fileID: 0}
